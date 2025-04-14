@@ -1,0 +1,16 @@
+module UsersData 
+  USERS_DATA = [
+    {
+      username: 'admin',
+      password: 'admin',
+    },
+    {
+      username: 'user',
+      password: 'user',
+    },
+    {
+      username: 'guest',
+      password: 'guest',
+    },
+  ]
+end
